@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TodoApp.Application.DTOs;
 using TodoApp.Core.DataModel;
-using TodoApp.Core.DTOs;
 
-namespace TodoApp.Core.Mappers
+namespace TodoApp.Application.Mappers
 {
     public static class TodoMapper
     {

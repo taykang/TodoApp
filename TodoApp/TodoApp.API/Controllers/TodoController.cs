@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TodoApp.Application.DTOs;
 using TodoApp.Application.Services;
-using TodoApp.Core.DataModel;
-using TodoApp.Core.DTOs;
 using TodoApp.Core.FilterModel;
 using TodoApp.Core.Wrapper;
 

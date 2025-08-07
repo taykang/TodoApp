@@ -1,8 +1,6 @@
 ﻿
 using TodoApp.Core.DataModel;
-using TodoApp.Core.DTOs;
 using TodoApp.Core.FilterModel;
-using TodoApp.Core.Wrapper;
 
 namespace TodoApp.Application.Interfaces
 {

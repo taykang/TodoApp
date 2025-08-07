@@ -1,11 +1,11 @@
 ﻿
-using TodoApp.Application.Interfaces;
-using TodoApp.Core.DataModel;
-using TodoApp.Core.DTOs;
-using TodoApp.Core.FilterModel;
-using TodoApp.Core.Mappers;
-using TodoApp.Core.Wrapper;
 using System.Linq;
+using TodoApp.Application.DTOs;
+using TodoApp.Application.Interfaces;
+using TodoApp.Application.Mappers;
+using TodoApp.Core.DataModel;
+using TodoApp.Core.FilterModel;
+using TodoApp.Core.Wrapper;
 
 namespace TodoApp.Application.Services
 {
