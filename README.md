@@ -20,6 +20,7 @@ A modern fullstack Todo List management system built using clean architecture pr
 
 ## 🗂️ Project Structure
 
+```
 TodoApp/
 ├── TodoApp.API/             # Web API entry point
 ├── TodoApp.Application/     # Application layer: services, DTOs
@@ -28,7 +29,7 @@ TodoApp/
 └── TodoApp.Tests/           # Unit tests (xUnit + Moq)
 todo-frontend/               # React + Tailwind CSS frontend
 README.md                   # Project documentation
-
+```
 
 ## ⚙️ Backend Setup (ASP.NET Core)
 
