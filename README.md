@@ -28,7 +28,7 @@ TodoApp/
 ├── TodoApp.Infrastructure/  # SQLite DB context, repositories, seed data
 └── TodoApp.Tests/           # Unit tests (xUnit + Moq)
 todo-frontend/               # React + Tailwind CSS frontend
-README.md                   # Project documentation
+README.md                    # Project documentation
 ```
 
 ## ⚙️ Backend Setup (ASP.NET Core)
@@ -61,7 +61,7 @@ README.md                   # Project documentation
    npm start
    ```
 
-4.The frontend will run on http://localhost:3000 by default.
+4. The frontend will run on http://localhost:3000 by default.
 
 
 ## 🧪 Running Unit Tests (Backend)
